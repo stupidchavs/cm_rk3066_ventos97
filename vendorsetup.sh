@@ -20,6 +20,6 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo full_rk3066-userdebug
-add_lunch_combo rootbox_rk3066-userdebug
-add_lunch_combo cm_rk3066-userdebug
+add_lunch_combo full_ventos97-userdebug
+add_lunch_combo rootbox_ventos97-userdebug
+add_lunch_combo cm_ventos97-userdebug
